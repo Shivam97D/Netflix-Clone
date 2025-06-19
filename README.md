@@ -29,8 +29,11 @@
 
 
 
-<!-- ## Demo
-[Live on GitHub Pages](https://yourusername.github.io/your-repo-name/) -->
+## Demo
+[Live on GitHub Pages](https://shivam97d.github.io/Netflix-Clone//)
+
+
+---
 
 ## Screenshots
 ![Screenshot](resources/homepage.png)
